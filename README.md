@@ -21,6 +21,6 @@
   <a href="https://github.com/TeamYukki/YukkiMusicBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=notreallyshikhar&repo=yukkimusicbot&theme=dracula" height="172"/></a>
   
 </p>  
-<p align = "center">
+<p>
   <a href="https://open.spotify.com/user/o23dqorxrtubizydft2r2g0w0"><img src="https://spotify-ecfdkhmsv-notreallyshikhar.vercel.app/api/spotify"/></a>
 </p>
