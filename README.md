@@ -1,6 +1,6 @@
 ## Hello There!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### I am Shikhar, sounds odd but an MBBS student :P, All I Know is some tech stack to make things work according to me.
+### I am Shikhar, might sound odd but an MBBS student, All I Know is some tech stack to make my things work.
 
 ## Breif About me :
 - I know Python,HTML5, Javascript, CSS and quite experienced with working of telegram bots and ofcourse I like writing bots.
