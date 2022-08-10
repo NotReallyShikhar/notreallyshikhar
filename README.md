@@ -2,14 +2,15 @@
 
 ### I am Shikhar, might sound odd but an MBBS student, All I Know is some tech stack to make my things work.
 
-## Breif About me :
+## Brief About me :
 - I know Python,HTML5, Javascript, CSS and quite experienced with working of telegram bots and ofcourse I like writing bots.
 - I am a MACos user, I am a little interested in ricing too, but too lazy for that.
 - All I use is VSCode, Atom, sometimes vim as my text editor or say IDE.
 ## Tools
 - MongoDB
 - NodeJS
-- Bootstrap
+- HTML
+- CSS
 - Docker
 - Cloud Services
 - ExpressJS
